@@ -17,7 +17,7 @@ BrightChat is designed to offer a smart and engaging conversational experience. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gssmc/BrightChat.git
+   git clone https://github.com/Bharath1629/BrightSpark.git
 
 2. Install dependencies:
    ```bash
